@@ -1,6 +1,7 @@
 10
 art add
 20
+art add
 30
 40
 50
